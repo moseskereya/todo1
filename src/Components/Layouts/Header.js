@@ -2,7 +2,7 @@
  function Header() {
      return (
          <header style={headerStyles}>
-             <h1>Hello list</h1>
+             <h1>My first Todolist</h1>
          </header>
      )
  }
