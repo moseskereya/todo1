@@ -1,0 +1,13 @@
+body{
+    background: rgb(134, 130, 130);
+}
+.container{
+    padding: 1rem;
+}
+.btn{
+    background: #000;
+    outline: none;
+    color: rgb(148, 101, 101);
+    padding: 7px 20px;
+    cursor: pointer;
+}
